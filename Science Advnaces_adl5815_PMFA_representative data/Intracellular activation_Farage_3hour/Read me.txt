@@ -1,0 +1,14 @@
+Read me
+
+- All measurements for representative fcs raw data were done by using PE-labeled specific anti-bodies (targeting p-p38 and p-Erk1/2)
+Detailed procedures are described in Materials and Methods-seciton.
+
+Meaning of abbreviations and notations:
+
+- Sol : adding soluble poteins of interest with same amount of proteins coated on beads
+- MB : Magnetic Bead coated proteins
+- MB+ : In the presence of a magnet lid (placing a magnet lid to apply magnetic force to magnetic beads)
+- MB - : In the absence of a magnet lid
+- TPA :  tetradecanoylphorbol acetate
+- AM : anysomicin
+
